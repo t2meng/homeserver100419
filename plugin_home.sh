@@ -1,1 +1,0 @@
-g++ plugin_home.cpp cprettytext.cpp -o plugins/plugin_home.so -shared -s -lpthread -L.
